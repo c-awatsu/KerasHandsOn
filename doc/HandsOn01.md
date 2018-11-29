@@ -8,21 +8,7 @@
 - pyenv
 - pip
 
-テスト  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+[JetBrains](https://www.jetbrains.com/)にユーザー登録
+
 
 ### Windows([MacOSの人はこっち](#MacOS))
