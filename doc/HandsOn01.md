@@ -8,7 +8,7 @@
 - pyenv
 - pip
 
-<a href="https://www.jetbrains.com/" target="_blank">JetBrains</a>にユーザー登録
+<a href="https://www.jetbrains.com" target="_blank">JetBrains</a>にユーザー登録
 
 
 ### Windows([MacOSの人はこっち](#MacOS))
