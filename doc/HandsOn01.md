@@ -9,7 +9,7 @@
 - pip
 
 
-1. [JetBrains](https://www.jetbrains.com)にユーザー登録
+1. [JetBrains](https://www.jetbrains.com)にユーザー登録  
     1. 
 2. 
 
