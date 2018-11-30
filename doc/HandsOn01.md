@@ -24,16 +24,23 @@
       
     7. 「UNIVERSITY EMAIL ADDRESS」タブに下の画像のように入力し「APPLY FOR FREE PRODUCTS」をクリック  
 
-        ![ユーザー登録](jetBrains-04.jpg)  
+        ![ユーザー登録04](jetBrains-04.jpg)  
 
     8. 登録完了すると下の画面に遷移するので、赤枠内の「Download activation code」をクリックして、アクティベーションコードが書かれたファイルをダウンロードしてください。
     
-        ![ユーザー登録](jetBrains-05.jpg)  
+        ![ユーザー登録05](jetBrains-05.jpg)  
 
     9. 次に、下の画面の赤枠内のPyCharmをクリックしてPyCharm本体をダウンロードしてください。
-        ![ユーザー登録](jetBrains-06.jpg)  
+        ![ユーザー登録06](jetBrains-06.jpg)  
 
-    10. ダウンロードしたアプリケーションを
+    10. ダウンロードしたアプリケーションを実行すると、下の画像のウィンドウが開くので画像の通りチェックをつけてOKをクリックしてください。
+        ![ユーザー登録07](jetBrains-07.jpg)
+    
+    11. 次に、下の画像のウィンドウが開くので画像左下の赤枠内にある「skip Remaining and Set Defaults」をクリックしてください。
+        ![ユーザー登録08](jetBrains-08.jpg)
+    
+    以上でPyCharmのインストールは完了です。  
+    これ以降の項目はMacOSとWindowsで内容を分けているので該当する方を参照してください。
 ### MacOS
 [Windowsの人はこっち](#Windows)  
 ##### インストールするもの
