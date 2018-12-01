@@ -53,8 +53,20 @@
 - pyenv
 - pip
 
-
- 
-
+1. HomeBrew  
+HomeBrewはMacOS用のパッケージマネージャーです。  
+HomeBrewを使うとプログラミング言語やコマンドのインストール, ものによってはソフトウェアの管理にも使えます。  
+    1.  xcodeのCommand Line Toolsが必要なので以下のコマンドを実行してください(容量が結構必要です)  
+    ```xcode-select --install```  
+    
+    以下のエラーが出た人はすでにインストール済みなので飛ばして大丈夫です。  
+    ```xcode-select: error: command line tools are already installed, use "Software Update" to install updates```
+    
+    2.  [HomeBrew](https://brew.sh/index_ja)にアクセスしてください
+    
+    3.  下の画像の赤枠内のコマンドをコピーしてターミナルで実行してください  
+        ![HomeBrew](HomeBrew.jpg)  
+    
+        
 ### Windows
 [MacOSの人はこっち](#MacOS)
