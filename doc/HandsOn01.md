@@ -59,8 +59,8 @@ HomeBrewを使うとプログラミング言語やコマンドのインストー
     1.  xcodeのCommand Line Toolsが必要なので以下のコマンドを実行してください(容量が結構必要です)  
     ```xcode-select --install```  
     
-    以下のエラーが出た人はすでにインストール済みなので飛ばして大丈夫です。  
-    ```xcode-select: error: command line tools are already installed, use "Software Update" to install updates```
+        以下のエラーが出た人はすでにインストール済みなので飛ばして大丈夫です。  
+        ```xcode-select: error: command line tools are already installed, use "Software Update" to install updates```
     
     2.  [HomeBrew](https://brew.sh/index_ja)にアクセスしてください
     
