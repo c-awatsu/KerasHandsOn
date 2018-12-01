@@ -65,6 +65,7 @@ HomeBrewを使うとプログラミング言語やコマンドのインストー
     2.  [HomeBrew](https://brew.sh/index_ja)にアクセスしてください
     
     3.  下の画像の赤枠内のコマンドをコピーしてターミナルで実行してください  
+    
         ![HomeBrew](HomeBrew.jpg)  
     
         
