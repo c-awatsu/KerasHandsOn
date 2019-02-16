@@ -68,6 +68,11 @@ HomeBrewを使うとプログラミング言語やコマンドのインストー
     
         ![HomeBrew](HomeBrew.jpg)  
     
-        
+    4.  以下のコマンドを実行してHomeBrewのversion番号が```Homebrew 2.0.1```のように表示されればインストール完了です。  
+        ```brew --veresion```   
+ 
+2. Python3.6
+
+ 
 ### Windows
 [MacOSの人はこっち](#MacOS)
