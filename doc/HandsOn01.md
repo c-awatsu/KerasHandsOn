@@ -72,7 +72,13 @@ HomeBrewを使うとプログラミング言語やコマンドのインストー
         ```brew --veresion```   
  
 2. Python3.6
-
+    1.以下のコマンドを順に入力  
+        ```
+        brew install pyenv  
+        echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bash_profile 
+        echo 'export PAHT="$PYENV_ROOT/bin:$PATH"' >> ~/.bash_profile  
+        echo 'eval "$(pyenv init -)"' >> ~/.bash_profile
+        ```
  
 ### Windows
 [MacOSの人はこっち](#MacOS)
