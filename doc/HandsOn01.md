@@ -85,11 +85,14 @@ pyenvはPythonのバージョン管理ツールで, pipはパッケージ管理�
         echo 'eval "$(pyenv init -)"' >> ~/.bash_profile  
         ```  
 
-      2行目のコマンドで```no such file or directory .bash_profile```とエラーが出た人は先に以下のコマンドを実行して, その後もう一度手順1のコマンドを実行してください。  
+        2行目のコマンドで```no such file or directory .bash_profile```とエラーが出た人は先に以下のコマンドを実行して, その後もう一度手順iのコマンドを実行してください。  
 
         ```touch ~/.bash_profile```  
     
-    2. 以下のコマンドを実行してpyenvのversion番号が```pyenv 1.2.9```のように表示されればインストール完了です。
+    2. 以下のコマンドを実行してpyenvのversion番号が```pyenv 1.2.9```のように表示されればインストール完了です。  
+
+次にpyenvを使ってPython3.6のインストールを行います。
+  　1. 
 
 ### Windows
 [MacOSの人はこっち](#MacOS)
