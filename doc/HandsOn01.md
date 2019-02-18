@@ -76,8 +76,9 @@ MacではいくつかPython用のバージョン管理ツール, パッケージ
 ここでは, 個人的に使いやすいpyenvとpipでやります。  
 pyenvはPythonのバージョン管理ツールで, pipはパッケージ管理ツールです。  
 
-まずpyenvのインストールを行います。 
-    1.以下のコマンドを順に入力
+まずpyenvのインストールを行います。  
+
+1.以下のコマンドを順に入力  
 ```
 brew install pyenv  
 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bash_profile  
