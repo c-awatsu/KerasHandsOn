@@ -87,7 +87,6 @@ echo 'eval "$(pyenv init -)"' >> ~/.bash_profile
 
 2行目のコマンドで```no such file or directory .bash_profile```とエラーが出た人は先に以下のコマンドを実行して, その後もう一度手順1のコマンドを実行してください。  
 ```touch ~/.bash_profile```  
-  
     2.以下のコマンドを実行してpyenvのversion番号が```pyenv 1.2.9```のように表示されればインストール完了です。
 
 ### Windows
