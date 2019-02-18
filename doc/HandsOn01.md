@@ -71,14 +71,20 @@ HomeBrewを使うとプログラミング言語やコマンドのインストー
     4.  以下のコマンドを実行してHomeBrewのversion番号が```Homebrew 2.0.1```のように表示されればインストール完了です。  
         ```brew --veresion```   
  
-2. Python3.6
-    1.以下のコマンドを順に入力  
-        ```
-        brew install pyenv  
-        echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bash_profile 
-        echo 'export PAHT="$PYENV_ROOT/bin:$PATH"' >> ~/.bash_profile  
-        echo 'eval "$(pyenv init -)"' >> ~/.bash_profile
-        ```
- 
+2. Python3.6, pyenv, pip
+MacではいくつかPython用のバージョン管理ツール, パッケージ管理ツールがあります。  
+ここでは, 個人的に使いやすいpyenvとpipでやります。  
+pyenvはPythonのバージョン管理ツールで, pipはパッケージ管理ツールです。  
+
+    1.以下のコマンドを順に入力
+```
+brew install pyenv  
+echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bash_profile  
+echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bash_profile  
+echo 'eval "$(pyenv init -)"' >> ~/.bash_profile  
+```  
+
+
+
 ### Windows
 [MacOSの人はこっち](#MacOS)
