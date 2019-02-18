@@ -71,7 +71,7 @@ HomeBrewを使うとプログラミング言語やコマンドのインストー
     4.  以下のコマンドを実行してHomeBrewのversion番号が```Homebrew 2.0.1```のように表示されればインストール完了です。  
         ```brew --veresion```   
  
-2. Python3.6, pyenv, pip
+2. Python3.6, pyenv, pip  
 MacではいくつかPython用のバージョン管理ツール, パッケージ管理ツールがあります。  
 ここでは, 個人的に使いやすいpyenvとpipでやります。  
 pyenvはPythonのバージョン管理ツールで, pipはパッケージ管理ツールです。  
