@@ -97,7 +97,10 @@ pyenvはPythonのバージョン管理ツールで, pipはパッケージ管理�
         ```pyenv global 3.6.8```  
       
       次にpipのupgradeを行います。pipはPythonに付属してきますがPythonのインストール直後はバージョンが古いのでupgradeを行う必要があります。
-   5. 以下のコマンドを実行してください、(pipをupgrade)
    
+   5. 以下のコマンドを実行してください。(pipをupgrade)  
+      ```pip install --upgrade pip```
+   
+      
 ### Windows
 [MacOSの人はこっち](#MacOS)
