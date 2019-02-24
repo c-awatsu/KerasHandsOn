@@ -68,7 +68,7 @@ HomeBrewを使うとプログラミング言語やコマンドのインストー
       ![HomeBrew](HomeBrew.jpg)  
     
    4. 以下のコマンドを実行してHomeBrewのversion番号が```Homebrew 2.0.1```のように表示されればインストール完了です。  
-        ```brew --veresion```   
+        ```brew --version```   
  
 2. Python3.6.8, pyenv, pip  
 MacではいくつかPython用のバージョン管理ツール, パッケージ管理ツールがあります。ここでは, 個人的に使いやすいpyenvとpipでやります。  
@@ -87,7 +87,7 @@ pyenvはPythonのバージョン管理ツールで, pipはパッケージ管理�
         ```touch ~/.bash_profile```  
     
    2. 以下のコマンドを実行してpyenvのversion番号が```pyenv 1.2.9```のように表示されればインストール完了です。  
-        ```pyevn --version```  
+        ```pyenv --version```  
    
       次にpyenvを使ってPython3.6.8のインストールを行います。  
    3. 以下のコマンドを実行してください。(Python3.6.8がインストールされる)  
