@@ -104,3 +104,35 @@ pyenvはPythonのバージョン管理ツールで, pipはパッケージ管理�
       
 ### Windows
 [MacOSの人はこっち](#MacOS)
+##### インストールするもの
+- Python3.6.8
+
+Python公式サイトでは、64bit版Windows用のPythonと、32bit版Windows用のPythonがあるので各々自分のPCのbit数を[確認手順](https://support.microsoft.com/ja-jp/help/958406  
+)で確認しておいてください  
+
+### インストーラーのダウンロード
+[DLサイト](https://www.python.org/downloads/)から使いたいVerのインストーラーをダウンロードしに行く  
+今回はPythonのverは3.6.8を選択する(画像は3.7.2になってますが3.6.8を選ぶだけで手順自体は同じです)  
+
+![p1](p1.png)
+
+真ん中にある**Download Python ×.×.×**ではなく  
+下にあるものをクリックしてください
+
+![p2](p2.png)
+64bit版Windowsにインストールするなら  
+**Windows x86-64 executable installer**  
+32bit版なら  
+**Windows x86 executable installer**  
+をダウンロード  
+
+### インストーラーの実行
+ダウンロードしたものを実行します  
+
+![p3](p3.png)
+
+1. **"Add Python 3.x to PATH"** をチェック  
+addにチェックをつけることで手動でPATHを通す必要がなくなります  
+2. Install now をクリックしてインストールを開始します  
+つつがなくインストールが終われば終了です
+
