@@ -8,4 +8,4 @@ HandsOn02では, 実際にPyCharm上でプロジェクトを作成し, HandsOn01
 ![PyCharm02.jpg](./PyCharm02.jpg)
 
 ![PyCharm03.jpg](./PyCharm03.jpg)  
-(この画像のPython3.6のパスはMac用のパスなのでWindowsの人は注意してください)
+(この画像のPython3.6のパスはMac用のパスなのでWindowsの人は注意してください)  
