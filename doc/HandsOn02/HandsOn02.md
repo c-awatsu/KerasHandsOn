@@ -14,3 +14,20 @@ HandsOn02では, 実際にPyCharm上でプロジェクトを作成し, HandsOn01
 (この画像のPython3.6のインストールパスはMacでのパスなのでWindowsの人は注意してください)  
 
 4. 「Location」欄をいじってプロジェクトに名前をつけたら右下の「Create」ボタンをクリック
+
+### ライブラリ設定編
+**画面はMacですが2の手順からは共通です**
+1. 以下の画像の赤枠内の「Preferences...」をクリック  
+![PyCharm04.jpg](./PyCharm04.jpg)  
+
+2. 以下の画像の赤枠内の「Project:プロジェクト名」をクリック  
+![PyCharm05.jpg](./PyCharm05.jpg)  
+
+3. 以下の画像の赤枠内の「Project interpreter」をクリック  
+![PyCharm06.jpg](./PyCharm06.jpg)  
+
+4. 以下の画像の赤枠内の「+」ボタンをクリック  
+![PyCharm07.jpg](./PyCharm07.jpg)  
+
+5. 以下の画像の赤枠内の検索欄にinstallしたいライブラリ名を入力（今回はtensorflow）
+![PyCharm08.jpg](./PyCharm08.jpg)
